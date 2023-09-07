@@ -1,0 +1,156 @@
+[
+    {
+        "iso": "NWT",
+        "chinese": "新北市",
+        "chinese_short": "新北",
+        "english": "New Taipei City",
+        "english_short": "New Taipei"
+    },
+    {
+        "iso": "TPE",
+        "chinese": "臺北市",
+        "chinese_short": "臺北",
+        "english": "Taipei City",
+        "english_short": "Taipei"
+    },
+    {
+        "iso": "TAO",
+        "chinese": "桃園市",
+        "chinese_short": "桃園",
+        "english": "Taoyuan City",
+        "english_short": "Taoyuan"
+    },
+    {
+        "iso": "TXG",
+        "chinese": "臺中市",
+        "chinese_short": "臺中",
+        "english": "Taichung City",
+        "english_short": "Taichung"
+    },
+    {
+        "iso": "TNN",
+        "chinese": "臺南市",
+        "chinese_short": "臺南",
+        "english": "Tainan City",
+        "english_short": "Tainan"
+    },
+    {
+        "iso": "KHH",
+        "chinese": "高雄市",
+        "chinese_short": "高雄",
+        "english": "Kaohsiung City",
+        "english_short": "Kaohsiung"
+    },
+    {
+        "iso": "ILA",
+        "chinese": "宜蘭縣",
+        "chinese_short": "宜蘭",
+        "english": "Yilan County",
+        "english_short": "Yilan"
+    },
+    {
+        "iso": "HSQ",
+        "chinese": "新竹縣",
+        "chinese_short": "新竹",
+        "english": "Hsinchu County",
+        "english_short": "Hsinchu"
+    },
+    {
+        "iso": "MIA",
+        "chinese": "苗栗縣",
+        "chinese_short": "苗栗",
+        "english": "Miaoli County",
+        "english_short": "Miaoli"
+    },
+    {
+        "iso": "CHA",
+        "chinese": "彰化縣",
+        "chinese_short": "彰化",
+        "english": "Changhua County",
+        "english_short": "Changhua"
+    },
+    {
+        "iso": "NAN",
+        "chinese": "南投縣",
+        "chinese_short": "南投",
+        "english": "Nantou County",
+        "english_short": "Nantou"
+    },
+    {
+        "iso": "YUN",
+        "chinese": "雲林縣",
+        "chinese_short": "雲林",
+        "english": "Yunlin County",
+        "english_short": "Yunlin"
+    },
+    {
+        "iso": "CYQ",
+        "chinese": "嘉義縣",
+        "chinese_short": "嘉義",
+        "english": "Chiayi County",
+        "english_short": "Chiayi"
+    },
+    {
+        "iso": "PIF",
+        "chinese": "屏東縣",
+        "chinese_short": "屏東",
+        "english": "Pingtung County",
+        "english_short": "Pingtung"
+    },
+    {
+        "iso": "TTT",
+        "chinese": "臺東縣",
+        "chinese_short": "臺東",
+        "english": "Taitung County",
+        "english_short": "Taitung"
+    },
+    {
+        "iso": "HUA",
+        "chinese": "花蓮縣",
+        "chinese_short": "花蓮",
+        "english": "Hualien County",
+        "english_short": "Hualien"
+    },
+    {
+        "iso": "PEN",
+        "chinese": "澎湖縣",
+        "chinese_short": "澎湖",
+        "english": "Penghu County",
+        "english_short": "Penghu"
+    },
+    {
+        "iso": "KEE",
+        "chinese": "基隆市",
+        "chinese_short": "基隆",
+        "english": "Keelung City",
+        "english_short": "Keelung"
+    },
+    {
+        "iso": "HSZ",
+        "chinese": "新竹市",
+        "chinese_short": "新竹",
+        "english": "Hsinchu City",
+        "english_short": "Hsinchu"
+    },
+    {
+        "iso": "CYI",
+        "chinese": "嘉義市",
+        "chinese_short": "嘉義",
+        "english": "Chiayi City",
+        "english_short": "Chiayi"
+    },
+    {
+        "iso": "KIN",
+        "chinese": "金門縣",
+        "chinese_short": "金門",
+        "english": "Kinmen County",
+        "english_short": "Kinmen"
+    },
+    {
+        "iso": "LIE",
+        "chinese": "連江縣",
+        "chinese_short": "連江",
+        "english": "Lienchiang County",
+        "english_short": "Lienchiang"
+    }
+]
